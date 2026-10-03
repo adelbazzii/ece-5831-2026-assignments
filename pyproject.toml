@@ -1,9 +1,13 @@
 [project]
 name = "ece-5831-2026-assignments"
 version = "0.1.0"
-requires-python = ">=3.12"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
 dependencies = [
-    "ipykernel>=7.3.0",
+    "ipynb>=0.5.1",
+    "matplotlib>=3.11.2",
     "numpy>=2.5.3",
+    "pandas>=3.0.6",
     "pip>=26.2.1",
 ]
