@@ -12,4 +12,6 @@ dependencies = [
     "pip>=26.2.1",
     "tensorflow-macos==2.15.0",
     "tensorflow-metal>=1.2.0",
+    "torch>=2.15.0",
+    "torchvision>=0.29.2",
 ]
