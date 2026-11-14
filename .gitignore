@@ -4,4 +4,7 @@ __pycache__/
 A_08/data_from_kaggle.zip
 A_08/data_from_kaggle/
 A_08/dataset/
-Final_Project/archive/
+Final_Project/dataset/
+
+# model checkpoints
+Final_Project/checkpoints/
