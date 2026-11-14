@@ -11,4 +11,5 @@ dependencies = [
     "pandas>=3.0.6",
     "pip>=26.2.1",
     "tensorflow-macos==2.15.0",
+    "tensorflow-metal>=1.2.0",
 ]
