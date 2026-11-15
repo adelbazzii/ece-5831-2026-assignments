@@ -7,4 +7,4 @@ A_08/dataset/
 Final_Project/dataset/
 
 # model checkpoints
-Final_Project/checkpoints/
+Final_Project/**/*.pt
