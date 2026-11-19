@@ -1,0 +1,16 @@
+{
+  "model": "SeaCNNv1",
+  "params": 1179127,
+  "img_size": 128,
+  "batch_size": 64,
+  "epochs": 100,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "patience": 10,
+  "optimizer": "AdamW",
+  "scheduler": "CosineAnnealingLR",
+  "label_smoothing": 0.1,
+  "class_weights": true,
+  "seed": 42,
+  "device": "mps"
+}
